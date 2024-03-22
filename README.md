@@ -1,10 +1,9 @@
 # 💫 About Me:
 Hi, I'm a full-stack web developer with around 3.5 years of experience.
 
-❇ Currently interested in: Three.js <br />
 ❇ I'm open for freelance work <br />
 ❇ I have an M.Sc.(Hons) in Computer Science <br />
-❇ Also, if you have an interesting open-source project and you're looking for contributors, you can get in touch with me. 😃 <br />
+❇ If you have an interesting open-source project and you're looking for contributors, you can get in touch with me <br />
 
 
 # 💻 Skills:
