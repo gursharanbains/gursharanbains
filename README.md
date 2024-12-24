@@ -1,12 +1,6 @@
-# 💫 About Me:
-Hi, I'm a full-stack web developer with 4 years of experience.
+Hi, I'm a full-stack dev.
 
-❇ I'm open for freelance work <br />
-❇ I have an M.Sc.(Hons) in Computer Science <br />
-❇ If you have an interesting open-source project and you're looking for contributors, you can get in touch with me <br />
-
-
-# 💻 Skills:
+# Skills:
 
 <p align="center">
     
